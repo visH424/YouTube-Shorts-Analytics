@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![YouTube Shorts Dashboard](screenshots/dashboard.png)
+![YouTube Shorts Dashboard](./YouTube%20Shorts%20Performance%20Dashboard.png)
 
 ## Tools Used
 - Python (Pandas)
